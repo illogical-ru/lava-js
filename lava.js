@@ -1,7 +1,9 @@
-/* tag:   lava.js
-   web:   http://illogical.ru/
-   email: inx@illogical.ru
-*/
+/*!
+ * https://github.com/illogical-ru/lava-js
+ *
+ * Copyright 2015 illogical
+ * Released under the MIT license
+ */
 
 var lava = function( window, undefined ) {
 
